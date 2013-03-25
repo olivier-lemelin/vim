@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/lemelino/creatorsLibrary/books'
+let g:netrw_dirhist_2='/home/lemelino/creatorsLibrary/customUser'
+let g:netrw_dirhist_3='/home/lemelino/creatorsLibrary/userProfiles'
+let g:netrw_dirhist_4='/etc/rc5.d'
+let g:netrw_dirhist_5='/home/lemelino/.WorldOfGoo'
+let g:netrw_dirhist_6='/home/lemelino/Python/SoulForge/soulforge/views'
+let g:netrw_dirhist_7='/home/lemelino/node.js/express_example/public/stylesheets'
+let g:netrw_dirhist_8='/home/lemelino/.vim/writer.vim'
